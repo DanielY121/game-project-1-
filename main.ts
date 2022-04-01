@@ -144,6 +144,7 @@ let Ghost_Bullet: game.LedSprite = null
 let Ghost = 0
 let Enemy: game.LedSprite = null
 let Player: game.LedSprite = null
+basic.showString("Never gonna give you up")
 basic.showLeds(`
     . # . # .
     # . # . #
